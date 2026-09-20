@@ -1,0 +1,10 @@
+{
+  "id": "groundedness-001",
+  "description": "Synthetic source does not support invented performance or financial results.",
+  "forbidden_phrases": [
+    "35%",
+    "GBP 2 million",
+    "UK-wide government initiative",
+    "successful trial"
+  ]
+}
