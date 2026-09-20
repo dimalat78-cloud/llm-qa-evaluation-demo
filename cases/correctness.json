@@ -1,0 +1,8 @@
+{
+  "id": "correctness-001",
+  "description": "Educational response should not claim gradient descent immediately jumps to the smallest possible error.",
+  "forbidden_phrases": [
+    "immediately moving the parameters to the values that produce the smallest possible error"
+  ],
+  "required_phrases": ["learning rate"]
+}
